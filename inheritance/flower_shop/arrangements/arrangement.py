@@ -1,7 +1,7 @@
 class Arrangement:
 
     def __init__(self):
-        self.__flowers = []
+        self.flowers = []
 
     def enhance(self, flower):
-        self.__flowers.append(flower)
+        self.flowers.append(flower)
